@@ -4,7 +4,7 @@
 **Software used : ✔ Autodesk EAGLE Educational.
 <br></br>
 
-# Prject : 1: My own Arduino Designing 😎
+# Project : 1: My own Arduino Designing 😎
 [Click Me for Gerber Files](https://github.com/joydipdutta001/PCBDesigning/tree/master/P1-Arduino%20Replica/version1_2020-08-09)
 <br></br>
 <figure>
