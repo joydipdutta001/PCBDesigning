@@ -1,7 +1,7 @@
 # PCB Designs ✨✨✨❤
-**I am providing some of my work with cad softwares to design PCBs.
+**I am providing some of my work with cad softwares to design PCBs.**
 <br></br>
-**Software used : ✔ Autodesk EAGLE Educational.
+**Software used : ✔ Autodesk EAGLE Educational.**
 <br></br>
 
 # Project : 1: My own Arduino Designing 😎
