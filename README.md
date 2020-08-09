@@ -8,13 +8,14 @@
 [Click Me for Gerber Files](https://github.com/joydipdutta001/PCBDesigning/tree/master/P1-Arduino%20Replica/version1_2020-08-09)
 <br></br>
 <figure>
-    <h1>Schematic</h1>
+    <h3>Schematic</h3>
     <img align='left' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreanShots/Screenshot%20(117).png" width='1000' height='400'>
 </figure>
 <br></br>
 [Click Me for Schematic](https://github.com/joydipdutta001/PCBDesigning/blob/master/P1-Arduino%20Replica/version1.sch)
 <br></br>
 <figure>
+    <h3>Board</h3>
     <img align='right' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreanShots/Screenshot%20(116).png" width='1000' height='400'>
 </figure>
 <br></br>
