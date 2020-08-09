@@ -10,7 +10,6 @@
 <figure>
     <img align='left' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreanShots/Screenshot%20(117).png" width='800' height='400'>
 </figure>
-<br></br>
 [Click Me for Schematic](https://github.com/joydipdutta001/PCBDesigning/blob/master/P1-Arduino%20Replica/version1.sch)
 <br></br>
 <figure>
