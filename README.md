@@ -41,4 +41,22 @@
      Download Board -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P2-NodeMCUandPowerSupply/nodemcuPowerSupply.brd)
 <br></br>
 
+# Project-3: 4-Channel Relay with 12V PowerSupply 😎
+[Click Me for Gerber Files](https://github.com/joydipdutta001/PCBDesigning/tree/master/P3-FourChannelRelayModule)
+<br></br>
+<figure>
+    <h3>Schematic</h3>
+    <img align='left' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreenShots/Screenshot%20(123).png" width='1000' height='400'>
+</figure>
+<br></br>
+    Download Schematic -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P2-NodeMCUandPowerSupply/nodemcuPowerSupply.sch)
+<br></br>
+<figure>
+    <h3>Board</h3>
+    <img align='right' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreenShots/Screenshot%20(124).png" width='1000' height='400'>
+</figure>
+<br></br>
+     Download Board -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P2-NodeMCUandPowerSupply/nodemcuPowerSupply.brd)
+<br></br>
+
 
