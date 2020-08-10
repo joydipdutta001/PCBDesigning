@@ -49,14 +49,14 @@
     <img align='left' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreenShots/Screenshot%20(123).png" width='1000' height='400'>
 </figure>
 <br></br>
-    Download Schematic -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P2-NodeMCUandPowerSupply/nodemcuPowerSupply.sch)
+    Download Schematic -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P3-FourChannelRelayModule/nodemcurelay.sch)
 <br></br>
 <figure>
     <h3>Board</h3>
     <img align='right' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/ScreenShots/Screenshot%20(124).png" width='1000' height='400'>
 </figure>
 <br></br>
-     Download Board -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P2-NodeMCUandPowerSupply/nodemcuPowerSupply.brd)
+     Download Board -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P3-FourChannelRelayModule/nodemcurelay.brd)
 <br></br>
 
 
