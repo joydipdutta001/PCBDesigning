@@ -59,4 +59,10 @@
      Download Board -> (https://github.com/joydipdutta001/PCBDesigning/blob/master/P3-FourChannelRelayModule/nodemcurelay.brd)
 <br></br>
 
-
+# Project-3: PCB design of WireLess Display Board with NodeMCU 😎
+<br></br>
+<figure>
+    <h3>Schematic</h3>
+    <img align='left' src="https://github.com/joydipdutta001/PCBDesigning/blob/master/P4-Wireless%20Display%20Board/Screenshot%20(132).png" width='1000' height='400'>
+</figure>
+<br></br>
